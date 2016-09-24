@@ -1,0 +1,25 @@
+---昨日小结
+●41457 video list简易框架以及基本的功能已经完成
+    https://github.com/sunnycia/Goalmemo/blob/master/sunzhenhao/res/mediaLogo.png
+    https://github.com/sunnycia/Goalmemo/blob/master/sunzhenhao/res/singlevideo.JPG
+    https://github.com/sunnycia/Goalmemo/blob/master/sunzhenhao/res/videolist.JPG
+● 讨论出了dlib下一阶段的计划
+    下阶段任务:从dlib的68个landmarks中挑出与之前6个模型相对应的5个landmarks, 
+        (由于没有瞳孔的标点, 可能需要对其中的若干个标点进行简单的计算模拟瞳孔
+        位置), 然后将这5个landmarks得到的feature与服务器计算的feature相比较,评
+        估使用dlib的精确度.
+◇ 组合数学任务可能要延期
+
+
+---今日目标
+◎41458 组合数学第一章
+◎ 
+◎ 
+◎ 
+
+
+---短期目标
+2d☆41454 学习dlib, 完成相关实验. 
+2d☆ 完成组合数学第一章习题
+12☆ 简单的直播环境搭建
+5d☆ 完成video list
