@@ -1,6 +1,2 @@
-
-I am liuxiaohua
-
-I am liuxiaohua
-
-I am liuxiaohua
+Q1:BLIINDS-2 评价算法 最后将feature融合的多元广义高斯密度函数  中的mean和covariance 是从test set 的先验数据得到，是怎么得到的？
+Q2:贝叶斯推理模型？？？？
