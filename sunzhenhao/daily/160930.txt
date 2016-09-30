@@ -10,9 +10,9 @@
 
 
 ---今日目标
+◎ 筛选训练集的任务: 阅读MATLAB代码,转换成Python脚本
 ◎ dlib与LE2,RE2模型结合的脚本编写(HARD)
 ◎ 了解直播工具Open Broadcaster Software的使用
-◎ 筛选训练集的任务
 ◎ 
 
 
